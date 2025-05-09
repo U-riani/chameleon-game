@@ -2,6 +2,11 @@
 
 Welcome to the Chameleon Game! 🎮
 
+## How to play online
+
+visit website: https://my-chameleon-game.netlify.app
+
+
 ## How to Run Locally
 
 To start the local development server, run:
@@ -9,4 +14,3 @@ To start the local development server, run:
 ```bash
 npm run dev
 
-## or visit website: https://my-chameleon-game.netlify.app
